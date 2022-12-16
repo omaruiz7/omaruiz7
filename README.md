@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omaruiz7
-- 👀 I’m interested in becoming a Data Analyst
+- 👀 I’m deeping in Data Science and Analytics
 - 🌱 I’m currently learning SQL and Python languages.
 - 📊 I'm an Economist and have a MBA mention Finance.
 - 💞️ I’m looking to collaborate on projects to learn.
